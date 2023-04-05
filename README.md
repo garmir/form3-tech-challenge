@@ -40,4 +40,4 @@ Some possible orchestration or automation actions that could be developed for re
 - Automatically creating a ticket in a helpdesk system to track the incident and ensure that it is addressed promptly.
 
 ## Additional Resources: 
-(OWASP Top 10: Server Side Request Forgery (SSRF))[https://owasp.org/Top10/A10_2021-Server-Side_Request_Forgery_%28SSRF%29/] and NIST SP 800-115 Technical Guide to Information Security Testing and Assessment.
+{OWASP Top 10: Server Side Request Forgery (SSRF)}[https://owasp.org/Top10/A10_2021-Server-Side_Request_Forgery_%28SSRF%29/] and NIST SP 800-115 Technical Guide to Information Security Testing and Assessment.
