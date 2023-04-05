@@ -1,5 +1,4 @@
 # form3-tech-challenge
-DB entry and detection rule for take home challenge
 
 ## Goal: 
 Detecting Server Side Request Forgery (SSRF) attempts to unauthorized endpoints in a web application.
