@@ -12,7 +12,7 @@ def detect_ssrf(url):
     Returns:
         bool: True if the URL contains an SSRF vulnerability, False otherwise.
     """
-    # Define the regular expression pattern to match legitimate AWS instance URLs
+    # Define the regex pattern to match legitimate AWS instance URLs
     aws_url_pattern = r'https?://([a-zA-Z0-9-]+\.)?(s3|ec2|elasticbeanstalk|lambda)\.amazonaws\.com/.*'
 
     # Check if the URL matches the AWS instance URL pattern
